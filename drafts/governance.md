@@ -2,44 +2,35 @@
 
 ## Overview
 
-The NUnit community is a meritocratic, consensus-based community that aims to provide the best possible software for use in developing and testing software in the .NET environment. Anyone with an interest in one of our projects can join the community, contribute to the project design and participate in the decision making process. This document describes how that participation takes place and how to set about earning merit within the project community. 
+The **NUnit Community** is a meritocratic, consensus-based community that aims to provide the best possible software for use in developing and testing applications in the .NET environment. We maintain a number of **Software Projects**, as described below, and sometimes use the term **NUnit Project** to refer to all of those projects in the aggregate.
 
-> **Note:** The NUnit Community is sometimes referred to as the NUnit Project, which is unfortunately also the name of the NUnit Framework software project. In this document, we will use "NUnit Community" so that there is no confusion.
+Anyone with an interest in one of our **Software Projects** can join the community, contribute to the project design and participate in the decision making process. This document describes how that participation takes place and how to set about earning merit within the project community. 
 
-## Projects
+## Software Projects
 
-The NUnit Community maintains a inventory of software projects, with the precise list potentially varying over time. Projects are grouped in three categories.
-
->**Reviewers:** I have listed some projects in each category. We will need to decide whether I have placed them in the correct category as well as add those I left out.
+The NUnit Community maintains a inventory of software projects, with the precise list potentially varying over time. Projects are grouped in a number of categories. See the separate `projects` document for a full list of projects in each category.
 
 1. Core Projects
 
-   These projects are essential and are maintained at the highest priority. They belong to the NUnit Community and we will continue to maintain them and release them on a regular schedule as long as they are useful to our users. If the developers maintaining one of these projects drop out, we will recruit new team members.
+   These projects are essential and are actively maintained at the highest priority. They belong to the NUnit Community and we will continue to maintain them and release them on a regular schedule as long as they are useful to our users. If the developers maintaining one of these projects drop out, we will recruit new team members and/or appoint a new project leader.
 
-   The Core Projects include:
+2. Secondary Projects
 
-   * NUnit Framework
-   * NUnit Console / Engine
-   * NUnit Visual Studio Test Adapter
-   * NUnit 3 Visual Studio Test Adapter
+   These are projects that are important to us but which are subordinate to the Core Projects in some sense. They do not follow a regular release schedule and are only updated as necessary.
 
-2. Contributed Projects
+3. Pre-Production Projects
 
-   These are projects developed by others but distributed by and through our community. They are maintained by their individual developers who issue releases as needed. If the developer of one of these projects should decide to stop maintaining it, we would not necessarily continue to maintain it ourselves.
+   These are projects that are being developed but are not yet at the stage of a production release. Once released, the project will fall into one of the other categories. This group may include experimental projects as well.
 
-   Current contributed projects include
+4. Contributed Projects
 
-   * Team City Engine Extension
-   * NUnit Templates
-   * NUnit Results 
+   These are projects developed by others but distributed by and through our community. They are maintained by their individual developers who issue releases as needed. Normally, the project lead is the person who contributed the project. If the lead/contributor should decide to stop maintaining it, the Core Team would have to decide whether to keep maintaining it in some way or to drop the project.
 
-3. Archived Projects
+5. Archived Projects
 
-   These are projects we no longer maintain.
+   These are projects we no longer maintain, but which have the last version of the source code available in case someone else wants to take them up again.
 
-   * NUnit V2
-   * NUnit for Compact Framework
-   * NUnit for Silverlight
+>**Reviewers:** Alternate names for these groups?
 
 ## Roles and Responsibilities
 
