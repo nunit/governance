@@ -1,37 +1,3 @@
-# The NUnit Community
-
-## Overview
-
-The **NUnit Community** is a meritocratic, consensus-based community that aims to provide the best possible software for use in developing and testing applications in the .NET environment. We maintain a number of **Software Projects**, as described below, and sometimes use the term **NUnit Project** to refer to all of those projects in the aggregate.
-
-Anyone with an interest in one of our **Software Projects** can join the community, contribute to the project design and participate in the decision making process. This document describes how that participation takes place and how to set about earning merit within the project community. 
-
-## Software Projects
-
-The NUnit Community maintains a inventory of software projects, with the precise list potentially varying over time. Projects are grouped in a number of categories. See the separate `projects` document for a full list of projects in each category.
-
-1. Core Projects
-
-   These projects are essential and are actively maintained at the highest priority. They belong to the NUnit Community and we will continue to maintain them and release them on a regular schedule as long as they are useful to our users. If the developers maintaining one of these projects drop out, we will recruit new team members and/or appoint a new project leader.
-
-2. Secondary Projects
-
-   These are projects that are important to us but which are subordinate to the Core Projects in some sense. They do not follow a regular release schedule and are only updated as necessary.
-
-3. Pre-Production Projects
-
-   These are projects that are being developed but are not yet at the stage of a production release. Once released, the project will fall into one of the other categories. This group may include experimental projects as well.
-
-4. Contributed Projects
-
-   These are projects developed by others but distributed by and through our community. They are maintained by their individual developers who issue releases as needed. Normally, the project lead is the person who contributed the project. If the lead/contributor should decide to stop maintaining it, the Core Team would have to decide whether to keep maintaining it in some way or to drop the project.
-
-5. Archived Projects
-
-   These are projects we no longer maintain, but which have the last version of the source code available in case someone else wants to take them up again.
-
->**Reviewers:** Alternate names for these groups? Do we need the groups here? They are repeated in projects.md.
-
 ## Roles and Responsibilities
 
 ### Users
@@ -122,40 +88,3 @@ The Chair has no additional authority over other members of the Core Team: the r
 
 The .NET Foundation, which we are considering joining, defines the role of Original Contributor as the person who seeds the project with the original software base. For the purposes of NUnit - at least NUnit 3 - that individual is identified as Charlie Poole who is the copyright holder for the core NUnit software components until they are assigned or licensed elsewhere.
 
-## Support
-
-All participants in the community are encouraged to provide support for new users within the project management infrastructure. This support is provided as a way of growing the community. Those seeking support should recognise that all support activity within the project is voluntary and is therefore provided as and when time allows. A user requiring guaranteed response times or results should therefore seek to purchase a support contract from a community member. However, for those willing to engage with the project on its own terms, and willing to help support other users, the community support channels are ideal.
-
-
-## Contribution Process
-
-Anyone can contribute to the project, regardless of their skills, as there are many ways to contribute. For instance, a contributor might be active on the project mailing list and issue tracker, or might supply patches. The various ways of contributing are described in more detail in a separate document.
-
-The developer mailing list is the most appropriate place for a contributor to ask for help when making their first contribution. 
-
-## Decision Making Process
-
-Decisions about the future of the project are made through discussion with all members of the community, from the newest user to the most experienced PMC member. All non-sensitive project management discussion takes place on the project contributors’ mailing list. Occasionally, sensitive discussion occurs on a private list.
-
-In order to ensure that the project is not bogged down by endless discussion and continual voting, the project operates a policy of lazy consensus. This allows the majority of decisions to be made without resorting to a formal vote.
-
-### Lazy consensus
-
-Decision making typically involves the following steps:
-
- * Proposal
- * Discussion
- * Vote (if consensus is not reached through discussion)
- * Decision
-
-Any community member can make a proposal for consideration by the community. In order to initiate a discussion about a new idea, they should send an email to the project contributors’ list or submit a patch implementing the idea to the issue tracker (or version-control system if they have commit access). This will prompt a review and, if necessary, a discussion of the idea. The goal of this review and discussion is to gain approval for the contribution. Since most people in the project community have a shared vision, there is often little need for discussion in order to reach consensus.
-
-In general, as long as nobody explicitly opposes a proposal or patch, it is recognised as having the support of the community. This is called lazy consensus - that is, those who have not stated their opinion explicitly have implicitly agreed to the implementation of the proposal.
-
-Lazy consensus is a very important concept within the project. It is this process that allows a large group of people to efficiently reach consensus, as someone with no objections to a proposal need not spend time stating their position, and others need not spend time reading such mails.
-
-For lazy consensus to be effective, it is necessary to allow at least 72 hours before assuming that there are no objections to the proposal. This requirement ensures that everyone is given enough time to read, digest and respond to the proposal. This time period is chosen so as to be as inclusive as possible of all participants, regardless of their location and time commitments.
-
-### Voting
-
-Not all decisions can be made using lazy consensus. Issues such as those affecting the strategic direction or legal standing of the project must gain explicit approval in the form of a vote. Every member of the community is encouraged to express their opinions in all discussion and all votes. However, only project committers and/or PMC members (as defined above) have binding votes for the purposes of decision making. A separate document on the voting within a meritocratic governance model describes in more detail how voting is conducted in projects following the practice established within the Apache Software Foundation.
