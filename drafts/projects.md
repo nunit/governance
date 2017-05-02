@@ -1,6 +1,8 @@
+## NUnit Software Projects
+
 The NUnit Community maintains a inventory of software projects, with the precise list potentially varying over time. Projects are grouped in a number of categories.
 
-1. Core Projects
+### Core Projects
 
    These projects are essential and are actively maintained at the highest priority. They belong to the NUnit Community and we will continue to maintain them and release them on a regular schedule as long as they are useful to our users. If the developers maintaining one of these projects drop out, we will recruit new team members and/or appoint a new project leader.
 
@@ -14,7 +16,7 @@ The NUnit Community maintains a inventory of software projects, with the precise
    * NUnit Visual Studio Test Adapter
    * NUnit 3 Visual Studio Test Adapter
 
-2. Secondary Projects
+### Secondary Projects
 
    These are projects that are important to us but which are subordinate to the Core Projects in some sense. They do not follow a regular release schedule and are only updated as necessary.
 
@@ -27,13 +29,13 @@ The NUnit Community maintains a inventory of software projects, with the precise
    * NUnit.org Website
    * NUnit Samples
 
-3. Pre-Production Projects
+### Pre-Production Projects
 
    These are projects that are being developed but are not yet at the stage of a production release. Once released, the project will fall into one of the other categories. This group may include experimental projects as well.
 
    * NUnit Gui
 
-4. Contributed Projects
+### Contributed Projects
 
    These are projects developed by others but distributed by and through our community. They are maintained by their individual developers who issue releases as needed. Normally, the project lead is the person who contributed the project. 
    
@@ -53,7 +55,7 @@ The NUnit Community maintains a inventory of software projects, with the precise
 
    >**Reviewers:** I'm not sure we should keep all of these projects, but I have listed the ones we have. In particular, I'm inclined to remove two of my own projects, NUnit Summary and NUnit Results. It seems like they just clutter up our project list and don't get much use. I think they can just as well go back to being personal projects. I also wonder about some of the others.
    
-5. Archived Projects
+### Archived Projects
 
    These are projects we no longer maintain, but which have the last version of the source code available in case someone else wants to take them up again.
 
@@ -62,9 +64,11 @@ The NUnit Community maintains a inventory of software projects, with the precise
    * NUnit for Compact Framework
    * NUnit for Silverlight
 
->**Reviewers:** I'm unsure about what category these should be in:
+### Unknown
 
    * NUnit Xamarin
    * NUnit Distribution (Is this really just part of NUnit Console / Engine?)
    * Dotnet Test NUnit
    * NUnit Portable Agent
+
+>**Reviewers:** I'm unsure about what category these should be in:
