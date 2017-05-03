@@ -42,7 +42,9 @@ Becoming a committer does not imply any obligation on your part. We understand t
 
 Anyone can become a committer; there are no special requirements, other than to have shown a willingness and ability to participate in the project as a team player. Typically, a potential committer will need to show that they have an understanding of the project, its objectives and its strategy. They will also have provided valuable contributions to the project over a period of time.
 
-New committers can be nominated by any existing committer and must be approved by the individual project lead and confirmed by the Core Team. Removal of committer authority requires approval of the Core Team but may be instituted by the project lead subject to later approval in case of necessity.
+New committers can be nominated by any existing committer and must be appointed by the individual project lead and approved by the Core Team. Removal of committer authority requires approval of the Core Team but may be instituted by the project lead subject to later approval in case of necessity.
+
+Committers on one software project can request committership on any other project and, if accepted, may be directly appointed by the project lead for the second project, without further approval of the Core Team.
 
 A committer who shows an above-average level of contribution to the project, particularly with respect to its strategic direction and long-term health, may be nominated to become a member of the Core Team.
 
@@ -64,7 +66,7 @@ The Core Team will conduct a regular review of each software project, annually f
 
 The Core Team is called upon to resolve conflicts between software projects or if a consensus cannot be reached on an important decision within a single project. Individual projects may also refer important decisions to the Core Team, particularly those that reflect our community values. Issues of copyright and licensing are always referred to the core team.
 
-The Core Team is responsible for approving, maintaining and amending as necessary these governance policies.
+The Core Team is responsible for approving, maintaining and amending these governance policies as needed.
 
 Membership in the Core Team is by invitation of the existing members. A nomination will result in discussion and possibly a vote by the existing members. As with all its decisions, the Core Team will attempt to reach a consensus on new members. If a vote is required, the new member must be approved by 2/3 of the membership.
 
