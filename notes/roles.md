@@ -27,6 +27,7 @@ In addition to their actions as users, contributors may also find themselves doi
 * writing documentation
 * fixing bugs
 * adding features
+* assisting in code review
 
 Contributors engage with the project through the issue tracker and mailing list, or by writing or editing documentation. They submit changes to the project itself via pull requests, which will be considered for inclusion in the project by existing committers (see next section). The [developer mailing list](https://groups.google.com/forum/#!forum/nunit-developer) and the issue trackers for each project are the best places to ask for help when making that first contribution.
 
@@ -36,7 +37,7 @@ As contributors gain experience and familiarity with the project, their profile 
 
 Committers are community members who have shown that they are committed to the continued development of the project through ongoing engagement with the community. Committership allows contributors to more easily carry on with their project related activities by giving them write access to the one or more project repositories.
 
-This does not mean that a committer is free to do what they want. Each project maintains a review process, which normally requires review of code by one other committer before merging a feature branch to master.
+This does not mean that a committer is free to do what they want. Each project maintains a review process, which normally requires review of code by one other committer before merging a feature branch to master. Committers are encouraged to participate in the review of pull requests for their projects, approving them for merge or requesting changes as necessary.
 
 Becoming a committer does not imply any obligation on your part. We understand that an individuals ability to give time to the project can vary over time.
 
@@ -87,6 +88,6 @@ The Core Team Chair is a single individual, voted for by the Core Team members. 
 
 The Chair has no additional authority over other members of the Core Team: the role is that of a coordinator and facilitator. The Chair is also expected to ensure that all governance processes are adhered to, and has the casting vote when the project fails to reach consensus.
 
-### Original Contributor 
+### Original Contributor
 
 The .NET Foundation, which we are considering joining, defines the role of Original Contributor as the person who seeds the project with the original software base. For the purposes of NUnit - at least NUnit 3 - that individual is identified as Charlie Poole who is the copyright holder for the core NUnit software components until they are assigned or licensed elsewhere.
