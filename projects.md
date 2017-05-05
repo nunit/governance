@@ -51,11 +51,8 @@ Current contributed projects include
 * Team City Engine Extension
 * NUnit 3 TD.Net Adapter
 * NUnit VS Templates
-* NUnit Results
 * NUnit Summary
 * NUnit Transforms (Aggregates multiple contributions)
-
->**Reviewers:** I'm not sure we should keep all of these projects, but I have listed the ones we have. In particular, I'm inclined to remove two of my own projects, NUnit Summary and NUnit Results. It seems like they just clutter up our project list and don't get much use. I think they can just as well go back to being personal projects. I also wonder about some of the others.
 
 ### Archived Projects
 
