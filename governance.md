@@ -8,7 +8,7 @@ Anyone with an interest in one of our **Software Projects** can join the communi
 
 ## Software Projects
 
-The NUnit Community maintains a inventory of software projects, with the precise list potentially varying over time. Projects are grouped in a number of categories. See the separate [Projects](./projects.md) document for a full list of projects in each category.
+The NUnit Community maintains an inventory of software projects, with the precise list varying over time. Projects are grouped in a number of categories. See the separate [Projects](./projects.md) document for a full list of projects in each category.
 
 1. Core Projects
 
@@ -73,11 +73,11 @@ This does not mean that a committer is free to do what they want. Each project m
 
 Becoming a committer does not imply any obligation on your part. We understand that an individuals ability to give time to the project can vary over time.
 
-Anyone can become a committer; there are no special requirements, other than to have shown a willingness and ability to participate in the project as a team player. Typically, a potential committer will need to show that they have an understanding of the project, its objectives and its strategy. They will also have provided valuable contributions to the project over a period of time.
+Anyone may become a committer; there are no special requirements, other than to have shown a willingness and ability to participate in the project as a team player. Typically, a potential committer will need to show that they have an understanding of the project, its objectives and its strategy. They will also have provided valuable contributions to the project over a period of time.
 
-New committers can be nominated by any existing committer and must be appointed by the individual project lead and approved by the Core Team. Removal of committer authority requires approval of the Core Team but may be instituted by the project lead subject to later approval in case of necessity.
+New committers may be nominated by any existing committer and must be appointed by the individual project lead and approved by the Core Team. Removal of committer authority requires approval of the Core Team but may be instituted by the project lead subject to later approval in case of necessity.
 
-Committers on one software project can request committership on any other project and, if accepted, may be directly appointed by the project lead for the second project, without further approval of the Core Team.
+Committers on one software project may request committership on any other project and, if accepted, may be directly appointed by the project lead for the second project, without further approval of the Core Team.
 
 A committer who shows an above-average level of contribution to the project, particularly with respect to its strategic direction and long-term health, may be nominated to become a member of the Core Team.
 
@@ -112,11 +112,11 @@ The initial composition of the Core Team is
 * Terje Sandstrom
 * Jamie Cansdale
 
-### Core Team Lead
+### Core Team Chair
 
-The Core Team Lead is a single individual, voted for by the Core Team members. Once someone has been appointed Lead, they remain in that role until they choose to retire, or the Core Team casts a two-thirds majority vote to remove them.
+The Core Team Chair is a single individual, voted for by the Core Team members. Once someone has been appointed Chair, they remain in that role until they choose to retire, or the Core Team casts a two-thirds majority vote to remove them.
 
-The Lead has no additional authority over other members of the Core Team: the role is that of a coordinator and facilitator. The Chair is also expected to ensure that all governance processes are adhered to, and has the casting vote when the project fails to reach consensus.
+The Chair has no additional authority over other members of the Core Team: the role is that of a coordinator and facilitator. The Chair is also expected to ensure that all governance processes are adhered to, and has the deciding vote in case of ties. 
 
 ### Original Contributor
 
