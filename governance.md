@@ -24,13 +24,11 @@ The NUnit Community maintains a inventory of software projects, with the precise
 
 1. Contributed Projects
 
-   These are projects developed by others but distributed by and through our community. They are maintained by their individual developers who issue releases as needed. Normally, the project lead is the person who contributed the project. If the lead/contributor should decide to stop maintaining it, the Core Team would have to decide whether to keep maintaining it in some way or to drop the project.
+   These are projects developed by others but hosted and distributed by our community. They are maintained by their individual developers who issue releases as needed. Normally, the project lead is the person who contributed the project. If the lead/contributor should decide to stop maintaining it, the Core Team would have to decide whether to keep maintaining it in some way or to drop the project.
 
 1. Archived Projects
 
    These are projects we no longer maintain, but which have the last version of the source code available in case someone else wants to take them up again.
-
->**Reviewers:** Is this too much detail here? Descriptions are repeated in projects.md but I thought they might help here. However, we could just list the categories if it seems better.
 
 ## Roles and Responsibilities
 
@@ -120,13 +118,9 @@ The Core Team Lead is a single individual, voted for by the Core Team members. O
 
 The Lead has no additional authority over other members of the Core Team: the role is that of a coordinator and facilitator. The Chair is also expected to ensure that all governance processes are adhered to, and has the casting vote when the project fails to reach consensus.
 
->**Reviewers:** If you like Organization Lead better, that's OK with me too. I considered Community Leader as well, but it seemed to overstate the case. The role is more like the go-between from the Core Team to the Community.
-
 ### Original Contributor
 
 The .NET Foundation, which we are considering joining, defines the role of Original Contributor as the person who seeds the project with the original software base. For the purposes of NUnit - at least NUnit 3 - that individual is identified as Charlie Poole who is the copyright holder for the core NUnit software components until they are assigned or licensed elsewhere.
-
->**Reviewers:** It's interesting that nobody commented on this in the early reviews. This is me wanting to be sure of the direction (initial at least) of things before letting go entirely. I have a lot of confidence in all of you, and I don't __really__ expect to exercise any authority in this role.
 
 ## Support
 
