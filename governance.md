@@ -110,7 +110,6 @@ The initial composition of the Core Team is
 * Rob Prouse
 * Chris Maddock
 * Terje Sandstrom
-* Jamie Cansdale
 
 ### Core Team Lead
 
