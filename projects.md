@@ -1,6 +1,6 @@
 ## NUnit Software Projects
 
-The NUnit Community maintains a inventory of software projects, with the precise list potentially varying over time. Projects are grouped in a number of categories.
+The NUnit Community maintains an inventory of software projects, with the precise list varying over time. Projects are grouped in a number of categories.
 
 ### Core Projects
 
