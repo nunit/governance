@@ -71,7 +71,7 @@ Committers are community members who have shown that they are committed to the c
 
 This does not mean that a committer is free to do what they want. Each project maintains a review process, which normally requires review of code by one other committer before merging a feature branch to master. Committers are encouraged to participate in the review of pull requests for their projects, approving them for merge or requesting changes as necessary.
 
-Becoming a committer does not imply any obligation on your part. We understand that an individuals ability to give time to the project can vary over time.
+Becoming a committer does not imply any obligation on your part. We understand that an individual's ability to give time to the project can vary over time.
 
 Anyone may become a committer; there are no special requirements, other than to have shown a willingness and ability to participate in the project as a team player. Typically, a potential committer will need to show that they have an understanding of the project, its objectives and its strategy. They will also have provided valuable contributions to the project over a period of time.
 
@@ -91,7 +91,7 @@ In fact, the lead makes most day-to-day decisions about the project, normally on
 
 The Core Team is responsible for the NUnit Project and Community as a whole and has additional responsibilities over and above those of a committer or a project lead.
 
-The key responsibiliy of the Core Team is to define and hold the vision and values of the NUnit Community and ensure that we stick to them. They should periodically review and if necessary update our vision and values documents and should ensure that all committers are aware of them.
+The key responsibility of the Core Team is to define and hold the vision and values of the NUnit Community and ensure that we stick to them. They should periodically review and if necessary update our vision and values documents and should ensure that all committers are aware of them.
 
 The Core Team recruits, selects and appoints project leaders and confirms the appointment of committers on all projects. It also sets standards that are needed in order for our projects to interoperate with one another. This may include such things as coding standards, use of GitHub and inter-project decision making. It should endeavor to avoid micro-managing the software projects and should leave them as much freedom as is reasonable.
 
