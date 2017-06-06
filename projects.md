@@ -51,7 +51,6 @@ Current contributed projects include
 * Team City Engine Extension
 * NUnit 3 TD.Net Adapter
 * NUnit VS Templates
-* NUnit Summary
 * NUnit Transforms (Aggregates multiple contributions)
 
 ### Archived Projects
