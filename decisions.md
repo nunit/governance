@@ -6,7 +6,7 @@ Major decisions about the future of the project are made through discussion with
 
 Most decisions that need to be made arise out of requests made of the individual software projects. For example, a user may request a particular feature to be added to the console runner by creating a GitHub issue. Such decisions are normally handled within the project by consensus of the committers, using input provided by users.
 
-In order to ensure that the project is not bogged down by endless discussion and continual voting, we usually follow a policy of lazy consensus. This allows the majority of decisions to be made without resorting to a formal vote. 
+In order to ensure that the project is not bogged down by endless discussion and continual voting, we usually follow a policy of lazy consensus. This allows the majority of decisions to be made without resorting to a formal vote.
 
 In general, as long as nobody explicitly opposes a proposal, it is recognised as having the support of the community. Those who have not stated their opinion explicitly have implicitly agreed to the implementation of the proposal.
 
@@ -30,3 +30,12 @@ Certain actions require a vote of two thirds of the members, rather than a simpl
 
 * Removal of a Core Team member
 * Removal of the Core Team Chair
+
+## Changes to the Governance Documents
+
+The governance documents for the NUnit Community are stored in the [GitHub nunit/governance](https://github.com/nunit/governance) repository. Any changes to those documents must go through a Pull Request and be reviewed by the Core Team. Changes may only be merged by members of the Core Team.
+
+* Spelling, grammar, or formatting changes that do not change the meaning of a document may be merged by one Core Team member other than the member that submitted the Pull Request.
+* Any changes to the content or meaning of documents must be voted on by the team and can only be merged when they have been approved by a majority of the Core Team as per the voting rules outlined in Core Team Decisions in this document.
+* Pull Requests that require voting should state so.
+* The Core Team will self-police and ensure that the rules are followed.
