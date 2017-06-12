@@ -35,3 +35,7 @@ We will continue to be **IDE-neutral**. We'll continue to ship releases that run
 We will become more **usable by other programs**. We'd like to make it easy for other software to run tests programmatically using NUnit. To that end, we provide **standard interfaces** that make it easy for people to write their own clients. We can't guarantee that those interfaces will never change, but we'll make an effort to keep them reasonably stable.
 
 We will improve our ability to **work with other open source tools** for .NET. This includes mock object frameworks, windows and web forms testers, Visual Studio addins, etc. We'll work with others to provide integrated installs of NUnit in combination with other tools. Some tools - those we use in our own tests - will be packaged with NUnit in the future.
+
+## Older Versions
+
+The original [vision document for NUnit 3](https://github.com/nunit/docs/wiki/NUnit-Vision) and the older [NUnit V2 vision document](https://github.com/nunit/docs/wiki/Original-Vision) are both available on the wiki.
