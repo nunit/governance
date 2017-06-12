@@ -1,6 +1,6 @@
 ## Stated simply...
 
-**NUnit aims to be a best in breed test framework that enables end to end testing of .NET projects by individuals and teams. It is  unopinionated and supports a number of different kinds of tests, allows for alternative approaches to testing and is usable by team members in a variety of roles.**
+**NUnit aims to be a best in breed test framework that enables end to end testing of .NET projects by individuals and teams. It is unopinionated and supports a number of different kinds of tests. NUnit allows for alternative approaches to testing and is usable by team members in a variety of roles.**
 
 On this page, we articulate the details of what that statement means to us. We don't specify features here - but try to provide set of guidelines that will help us when we are considering what features to add.
 
@@ -16,7 +16,7 @@ All of us are pretty excited about **Test-Driven Development**. However, we reco
 
 ### Developer versus Programmer
 
-Even though NUnit started as a tool for **programmers**. we want to recognize and fulfill the needs of the **whole team**, including programmers, testers, interaction designers, web designers, data base specialists, customers and managers.
+Even though NUnit started as a tool for **programmers**, we want to recognize and fulfill the needs of the **whole team**, including testers.
 
 ## Principles
 
@@ -28,13 +28,13 @@ We'll continue to focus on **.NET development**. Testing non-.NET apps through t
 
 We'll remain **language neutral**. We'd like to work with **any** supported .NET languages. We currently support C#, VB.NET, C++ and F#. We will support other languages where people ask for it, particularly if they are able to pitch in and help.
 
-We'll remain **platform-neutral** and will **add more CLI platforms** as needed. We currently support the **NET Framework**, **.NET Core** and **Mono**. NUnit already allows running tests under different runtime platforms by use of a command-line option or by selecting an option in the Gui.
+We'll remain **platform-neutral** and will **add more platforms** supporting the Common Language Infrastructure as needed. We currently support the **NET Framework**, **.NET Core** and **Mono**.
 
 We will continue to be **IDE-neutral**. We'll continue to ship releases that run outside any IDE in order to reach as many people as possible. IDE-specific features - such as those now present for Visual Studio - will remain user-selectable and off by default. Any major IDE integration package - such as plugins or addins - will be packaged separately.
 
 We will become more **usable by other programs**. We'd like to make it easy for other software to run tests programmatically using NUnit. To that end, we provide **standard interfaces** that make it easy for people to write their own clients. We can't guarantee that those interfaces will never change, but we'll make an effort to keep them reasonably stable.
 
-We will improve our ability to **work with other open source tools** for .NET. This includes mock object frameworks, windows and web forms testers, Visual Studio addins, etc. We'll work with others to provide integrated installs of NUnit in combination with other tools. Some tools - those we use in our own tests - will be packaged with NUnit in the future.
+We will improve our ability to **work with other open source tools** for .NET. This includes mock object frameworks, windows and web forms testers, Visual Studio addins, etc. We'll work with others to provide integrated installs of NUnit in combination with other tools.
 
 ## Older Versions
 
