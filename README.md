@@ -4,7 +4,7 @@ This repository contains documents related to the overall governance of the NUni
 
 ## Code of Conduct
 
-Please note that all NUnit projecst are released with a [Contributor Code of Conduct](CODE_OF_CONDUCT.md). By participating in these projects you agree to abide by its terms.
+Please note that all NUnit projects are released with a [Contributor Code of Conduct](CODE_OF_CONDUCT.md). By participating in these projects you agree to abide by its terms.
 
 ## Structure of this Repository
 
