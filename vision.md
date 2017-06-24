@@ -1,10 +1,12 @@
+# NUnit Vision Statement
+
 ## Stated simply...
 
-**NUnit aims to be a best in breed test framework that enables end to end testing of .NET projects by individuals and teams. It is unopinionated and supports a number of different kinds of tests. NUnit allows for alternative approaches to testing and is usable by team members in a variety of roles.**
+**NUnit aims to be a best in breed test framework that enables end to end testing of .NET projects by individuals and teams. It is unopinionated, supports a number of different approaches to testing, and is usable by team members in a variety of roles.**
 
 On this page, we articulate the details of what that statement means to us. We don't specify features here - but try to provide set of guidelines that will help us when we are considering what features to add.
 
-## A Bit More Detail
+### A Bit More Detail
 
 ### Kinds of Tests
 
