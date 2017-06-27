@@ -40,4 +40,4 @@ We will improve our ability to **work with other open source tools** for .NET. T
 
 ## Older Versions
 
-The original [vision document for NUnit 3](https://github.com/nunit/docs/wiki/NUnit-Vision) and the older [NUnit V2 vision document](https://github.com/nunit/docs/wiki/Original-Vision) are both available on the wiki.
+Archived documents for the initial [vision for NUnit 3](https://github.com/nunit/docs/wiki/archive/NUnit-Vision-2008) and the older [vision for NUnit 2](https://github.com/nunit/docs/wiki/archive/Original-Vision) are both available in this repository.
