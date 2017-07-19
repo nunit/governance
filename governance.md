@@ -110,6 +110,7 @@ The initial composition of the Core Team is
 * Rob Prouse
 * Chris Maddock
 * Terje Sandstrom
+* Joseph Musser
 
 ### Core Team Chair
 
