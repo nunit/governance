@@ -105,7 +105,7 @@ Membership in the Core Team is by invitation of the existing members. A nominati
 
 Core Team members remain on the team until they choose to retire or until 2/3 of the members vote to remove them.
 
-The initial composition of the Core Team is
+The current composition of the Core Team is
 * Charlie Poole
 * Rob Prouse
 * Chris Maddock
