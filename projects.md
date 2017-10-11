@@ -20,7 +20,6 @@ The Core Projects include:
 
 These are projects that are important to us but which are subordinate to the Core Projects in some sense. They do not follow a regular release schedule and are only updated as necessary.
 
-* NUnit Project Editor
 * Core Engine Extensions
   * NUnit V2 Framework Driver
   * NUnit V2 Result Writer
@@ -34,7 +33,6 @@ These are projects that are important to us but which are subordinate to the Cor
 
 These are projects that are being developed but are not yet at the stage of a production release. Once released, the project will fall into one of the other categories. This group may include experimental projects as well.
 
-* NUnit Gui
 * NUnit Analyzers
 
 ### Contributed Projects
