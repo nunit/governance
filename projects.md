@@ -2,13 +2,13 @@
 
 The NUnit Community maintains an inventory of software projects, with the precise list varying over time. Projects are grouped in a number of categories.
 
-### Core Projects
+### Key Projects
 
 These projects are essential and are actively maintained at the highest priority. They belong to the NUnit Community and we will continue to maintain them and release them on a regular schedule as long as they are useful to our users. If the developers maintaining one of these projects drop out, we will recruit new team members and/or appoint a new project leader.
 
 Note that a "project" in this context may not map one to one to GitHub repositories. That is, a single project may have multiple repos and (less frequently) a single repo may house multiple projects.
 
-The Core Projects include:
+The Key Projects include:
 
 * NUnit Framework
 * NUnit Console
@@ -18,7 +18,7 @@ The Core Projects include:
 
 ### Secondary Projects
 
-These are projects that are important to us but which are subordinate to the Core Projects in some sense. They do not follow a regular release schedule and are only updated as necessary.
+These are projects that are important to us but which are subordinate to the Key Projects in some sense. They do not follow a regular release schedule and are only updated as necessary.
 
 * Core Engine Extensions
   * NUnit V2 Framework Driver
@@ -46,7 +46,7 @@ If the lead/contributor should decide to stop maintaining the contributed projec
 Current contributed projects include
 
 * NUnit VS Test Generator
-* Team City Engine Extension
+* TeamCity Engine Extension
 * NUnit 3 TD.Net Adapter
 * NUnit VS Templates
 * NUnit Transforms (Aggregates multiple contributions)
