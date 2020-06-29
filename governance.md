@@ -4,7 +4,7 @@
 
 The **NUnit Community** is a meritocratic, consensus-based community that aims to provide the best possible software for use in developing and testing applications in the .NET environment. We maintain a number of **Software Projects**, as described below, and sometimes use the term **NUnit Project** to refer to all of those projects in the aggregate.
 
-Anyone with an interest in one of our **Software Projects** can join the community, contribute to the project design and participate in the decision making process. This document describes how that participation takes place and how to set about earning merit within the project community. 
+Anyone with an interest in one of our **Software Projects** can join the community, contribute to the project design and participate in the decision making process. This document describes how that participation takes place and how to set about earning merit within the project community.
 
 ## Software Projects
 
@@ -106,6 +106,7 @@ Membership in the Core Team is by invitation of the existing members. A nominati
 Core Team members remain on the team until they choose to retire or until 2/3 of the members vote to remove them.
 
 The current composition of the Core Team is
+
 * Charlie Poole
 * Rob Prouse
 * Chris Maddock
@@ -115,9 +116,9 @@ The current composition of the Core Team is
 
 ### Core Team Chair
 
-The Core Team Chair is a single individual, voted for by the Core Team members. Once someone has been appointed Chair, they remain in that role until they choose to retire, or the Core Team casts a two-thirds majority vote to remove them.
+The Core Team Chair is a single individual, voted for by the Core Team members. The Chair leads the team, facilitates the decision-making process and ensures that all governance processes are adhered to.
 
-The Chair has no additional authority over other members of the Core Team: the role is that of a coordinator and facilitator. The Chair is also expected to ensure that all governance processes are adhered to, and has the deciding vote in case of ties. 
+Once someone has been appointed Chair, they remain in that role until they choose to resign or the Core Team casts a two-thirds majority vote to remove them.
 
 ### Original Contributor
 
@@ -133,7 +134,7 @@ The primary support channel for users is the [community mailing list](https://gr
 
 Anyone can contribute to the project, regardless of their skills, as there are many ways to contribute. For instance, a contributor might be active on the project mailing list and issue tracker, or might supply patches. The various ways of contributing are described in more detail in the [Contributions](./contributions.md) document.
 
-The [developer mailing list](https://groups.google.com/forum/#!forum/nunit-developer) is the most appropriate place for a contributor to ask for help when making their first contribution. 
+The [developer mailing list](https://groups.google.com/forum/#!forum/nunit-developer) is the most appropriate place for a contributor to ask for help when making their first contribution.
 
 ## Decision Making Process
 
