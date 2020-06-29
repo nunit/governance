@@ -10,13 +10,13 @@ Anyone with an interest in one of our **Software Projects** can join the communi
 
 The NUnit Community maintains an inventory of software projects, with the precise list varying over time. Projects are grouped in a number of categories. See the separate [Projects](./projects.md) document for a full list of projects in each category.
 
-1. Core Projects
+1. Key Projects
 
    These projects are essential and are actively maintained at the highest priority. They belong to the NUnit Community and we will continue to maintain them and release them on a regular schedule as long as they are useful to our users. If the developers maintaining one of these projects drop out, we will recruit new team members and/or appoint a new project leader.
 
 1. Secondary Projects
 
-   These are projects that are important to us but which are subordinate to the Core Projects in some sense. They do not follow a regular release schedule and are only updated as necessary.
+   These are projects that are important to us but which are subordinate to the Key Projects in some sense. They do not follow a regular release schedule and are only updated as necessary.
 
 1. Pre-Production Projects
 
@@ -95,9 +95,9 @@ The key responsibility of the Core Team is to define and hold the vision and val
 
 The Core Team recruits, selects and appoints project leaders and confirms the appointment of committers on all projects. It also sets standards that are needed in order for our projects to interoperate with one another. This may include such things as coding standards, use of GitHub and inter-project decision making. It should endeavor to avoid micro-managing the software projects and should leave them as much freedom as is reasonable.
 
-The Core Team will conduct a regular review of each software project, annually for core projects and every two years for others. Additional review may be called for if a project is having problems. The review should look at releases, bug fixing and other indications that the project is performing as desired.
+The Core Team will conduct a regular review of each software project, annually for key projects and every two years for others. Additional review may be called for if a project is having problems. The review should look at releases, bug fixing and other indications that the project is performing as desired.
 
-The Core Team is called upon to resolve conflicts between software projects or if a consensus cannot be reached on an important decision within a single project. Individual projects may also refer important decisions to the Core Team, particularly those that reflect our community values. Issues of copyright and licensing are always referred to the core team.
+The Core Team is called upon to resolve conflicts between software projects or if a consensus cannot be reached on an important decision within a single project. Individual projects may also refer important decisions to the Core Team, particularly those that reflect our community values. Issues of copyright and licensing are always referred to the Core Team.
 
 The Core Team is responsible for approving, maintaining and amending these governance policies as needed.
 
@@ -112,7 +112,7 @@ The current composition of the Core Team is
 * Chris Maddock
 * Terje Sandstrom
 * Joseph Musser
-* Mikkel Bundgaard
+* Mikkel Nylander Bundgaard
 
 ### Core Team Chair
 
@@ -122,7 +122,7 @@ Once someone has been appointed Chair, they remain in that role until they choos
 
 ### Original Contributor
 
-The .NET Foundation, which we are considering joining, defines the role of Original Contributor as the person who seeds the project with the original software base. For the purposes of NUnit - at least NUnit 3 - that individual is identified as Charlie Poole who is the copyright holder for the core NUnit software components until they are assigned or licensed elsewhere.
+The .NET Foundation, which we are considering joining, defines the role of Original Contributor as the person who seeds the project with the original software base. For the purposes of NUnit - at least NUnit 3 - that individual is identified as Charlie Poole who is the copyright holder for the key NUnit software components until they are assigned or licensed elsewhere.
 
 ## Support
 
