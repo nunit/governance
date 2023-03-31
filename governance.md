@@ -107,12 +107,12 @@ Core Team members remain on the team until they choose to retire or until 2/3 of
 
 The current composition of the Core Team is
 
-* Charlie Poole
 * Rob Prouse
-* Chris Maddock
 * Terje Sandstrom
 * Joseph Musser
 * Mikkel Nylander Bundgaard
+* Sean Killeen
+* Steven Weerdenburg
 
 ### Core Team Chair
 
